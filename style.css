@@ -1,15 +1,17 @@
-body{
+body {
   background-color: #222831;
 }
 
-p { color:blue; }
+p {
+  color: blue;
+}
+
 h1 {
   text-align: center;
   color: #00adb5;
 }
 
 h4 {
-color: #00adb5;
+  color: #00adb5;
   text-align: center;
-
 }
