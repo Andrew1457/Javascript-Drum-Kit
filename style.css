@@ -1,14 +1,26 @@
+body{
+  background-color: #222831;
+}
+
 p { color:blue; }
 h1 {
-    text-align: center;
-    color:black;
-    
+  text-align: center;
+  color: #00adb5;
+}
 
-  }
+h4 {
+color: #00adb5;
+  text-align: center;
 
-  h4 {
-    text-align: center;
-    color:black;
+}
 
+  /*.button{
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 40px 40px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
 
-  }
+  }*/
